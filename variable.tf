@@ -1,3 +1,3 @@
 variable "instance_type" {
-    default = instance_type
+    default = "t3.micro"
 }
